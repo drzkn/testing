@@ -1,0 +1,10 @@
+{
+    "files": [
+        "src/components/Sum/Sum.ts",
+        "src/components/App/App.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5"
+    }
+}
